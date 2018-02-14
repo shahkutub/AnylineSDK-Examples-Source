@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AnylineSDK-Examples-Source\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "E:\\AnylineSDK-Examples-Source\\app\\src\\main\\res\\values-v16\\styles.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "8",
+                        "startOffsets": "178",
+                        "endLines": "19",
+                        "endColumns": "16",
+                        "endOffsets": "615"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "16",
+                        "endOffsets": "492"
+                    }
+                }
+            ]
+        }
+    ]
+}
